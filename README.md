@@ -1,4 +1,4 @@
-# day7
+# day7  圖形
 for x in range(1,100):
   print(str(x)+'$$$$$$$$')
   shift+4=$
